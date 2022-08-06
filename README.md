@@ -1,3 +1,3 @@
-# Boot Camp Dio Linux Experience
+# Boot Camp Dio - Linux Experience
 ## Observações e Anotações sobre o Curso
-[Bootcamp Linux Experience](https://web.dio.me/track/linux-experience)
+[Bootcamp Dio - Linux Experience](https://web.dio.me/track/linux-experience)
